@@ -1,2 +1,0 @@
-# wct.github.io
-website
